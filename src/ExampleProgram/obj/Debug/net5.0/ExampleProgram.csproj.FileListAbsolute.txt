@@ -1,0 +1,4 @@
+/home/jordan/work/navy/ExampleDotNet/src/ExampleProgram/obj/Debug/net5.0/ExampleProgram.csproj.AssemblyReference.cache
+/home/jordan/work/navy/ExampleDotNet/src/ExampleProgram/obj/Debug/net5.0/ExampleProgram.AssemblyInfoInputs.cache
+/home/jordan/work/navy/ExampleDotNet/src/ExampleProgram/obj/Debug/net5.0/ExampleProgram.AssemblyInfo.cs
+/home/jordan/work/navy/ExampleDotNet/src/ExampleProgram/obj/Debug/net5.0/ExampleProgram.csproj.CoreCompileInputs.cache

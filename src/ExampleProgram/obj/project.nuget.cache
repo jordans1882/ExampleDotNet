@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTGUNm+pWMhYIklXIt9o1Xg6dCcZ1UXrXqQQFTapZeonprKrLIlllvAqmv/tW9FkqQOcaQUvtvxRqZ3TvrhNNw==",
+  "success": true,
+  "projectFilePath": "/home/jordan/work/navy/ExampleDotNet/src/ExampleProgram/ExampleProgram.csproj",
+  "expectedPackageFiles": [
+    "/home/jordan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
